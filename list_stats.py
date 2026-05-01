@@ -13,3 +13,4 @@ print("Sum:", total)
 print("Average:", avg)
 print("Max:", maximum)
 print("Min:", minimum)
+
