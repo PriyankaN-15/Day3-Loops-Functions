@@ -1,9 +1,9 @@
- Day 3 - Loops & Functions
+Day 3 - Loops & Functions
 
- Overview
+Overview
 Focused on loops and functions — essential for building logic and reusable code.
 
- Topics Covered
+Topics Covered
 - for loops (lists, ranges)
 - while loops
 - break, continue, pass
@@ -16,7 +16,7 @@ Mini Projects
 - Palindrome Checker
 - Prime Number Finder
 
- Key Learnings
+Key Learnings
 - Writing reusable functions
 - Improving logical thinking
 - Understanding control flow
